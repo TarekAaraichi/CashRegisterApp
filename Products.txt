@@ -4,7 +4,7 @@ Mugg, 40.00, 12%
 Chips, 15.00, 12%
 Yoghurt, 25.00, 12%
 Daim, 20.00, 12%
-Köttfärs, 100.00, 12% 
+Köttfärs, 100.00, 12%
 Kyckling, 90.00, 12%
 Ost, 70.00, 12%
 Pasta, 25.00, 12%
@@ -28,3 +28,13 @@ Julmusk, 50.00, 12%
 Filmjölk, 25.00, 12%
 Mandelpaj, 25.00, 12%
 Glass, 100.00, 12%
+Kex, 30.00, 12%
+Limonad, 20.00, 12%
+Äppeljuice, 25.00, 12%
+Nötter, 50.00, 12%
+Fryst pizza, 70.00, 12%
+Korv, 60.00, 12%
+Hönökaka, 40.00, 12%
+Grädde, 25.00, 12%
+Sill, 55.00, 12%
+Choklad, 30.00, 12%
